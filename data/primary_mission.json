@@ -1,0 +1,9 @@
+{
+  "drone_id": "primary",
+  "time_window": {"start": 0, "end": 10},
+  "waypoints": [
+    {"x": 0, "y": 0, "time": 0},
+    {"x": 5, "y": 5, "time": 5},
+    {"x": 10, "y": 10, "time": 10}
+  ]
+}
